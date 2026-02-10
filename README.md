@@ -1,4 +1,5 @@
-# gig_site
+# Personal Site
+
 Richard's personal site
 
 The purpose of this document is to:
